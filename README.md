@@ -33,3 +33,9 @@ Once your submission is reviewed and approved, it will be added to [goodfirstiss
 ## Contributing
 
 Want to contribute? See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions and guidelines.
+
+## Improvements
+
+- Fix: prevent crash when repository data is missing
+- Feature: search repositories by name (case-insensitive)
+- Added fallback handling for missing arrays
